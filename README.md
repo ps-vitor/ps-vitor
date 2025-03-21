@@ -1,6 +1,6 @@
 ## Hi, I'm Vitor Santos 🚀🖥️
 
-Computer Science student at the Universidade Federal de Santa Catarina (UFSC), with a strong focus on mobile development.
+Mobile Development Intern; Computer Science student at the Universidade Federal de Santa Catarina (UFSC).
 <div align="left">
   <a href="mailto:vitorpedrosasantos@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:top">
@@ -20,11 +20,6 @@ Computer Science student at the Universidade Federal de Santa Catarina (UFSC), w
 ### Technologies currently using: 🤖
 
 <div style="display: inline_block"><br/>
-  <img align="html5" src="https://img.shields.io/badge/flutter" />
-  <img align="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  [![My Skills](https://skillicons.dev/icons?i=linux,flutter,cs,xamarin,js,ts,nodejs,py,go,git,mysql,androidstudio,wordpress)](https://skillicons.dev)
 
 </div>
