@@ -19,7 +19,4 @@ Mobile Development Intern; Computer Science student at the Universidade Federal 
 
 ### Technologies currently using: 🤖
 
-<div style="display: inline_block"><br/>
-  [![My Skills](https://skillicons.dev/icons?i=linux,flutter,cs,js,ts,nodejs,py,go,git,mysql,androidstudio,wordpress&perline=6)](https://skillicons.dev)
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linux,flutter,cs,py,git,mysql,c,cpp&perline=8)](https://skillicons.dev)
