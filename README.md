@@ -5,7 +5,7 @@ Computer Science student at the Universidade Federal de Santa Catarina (UFSC).
   <a href="mailto:vitorpedrosasantos@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align:top">
   </a>
-  <a href="https://www.linkedin.com/in/vitor-pedrosa-brito-dos-santos-3223bb1b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/ps-vitor?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:top">
   </a>
   <a href="https://github.com/ps-vitor" target="_blank">
