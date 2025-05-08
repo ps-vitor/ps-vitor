@@ -19,4 +19,4 @@ Computer Science student at the Universidade Federal de Santa Catarina (UFSC).
 
 ### Technologies currently using: 🤖
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,flutter,py,git,mysql,c,cpp,ts,react,nodejs,go&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,flutter,py,git,c,cpp,ts,react,nodejs,go&perline=13)](https://skillicons.dev)
